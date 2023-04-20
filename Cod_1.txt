@@ -1,0 +1,4 @@
+print('Hola Mundo') -> Python
+System.out.println("Hola mundo") -> Java
+
+Python y Java son dos lenguajes muy usados
